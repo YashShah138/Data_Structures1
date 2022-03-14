@@ -16,3 +16,5 @@
 
 2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
    1. Dopamine issues are a real problem in our lives. Dopamine is created when we are addicted to something because our brains think that it creates happiness. Dopamine issues are real, as we see in some gamers. Mr. Mortensen gave the example of Anthony Roser. Addiction to gaming can cause anxiety and exhaustion. I think sleepung is a major thing that is impacting my personal study. I usually will take naps during the day and stay up late to finish my homework.
+
+[Link to TT0 Menu](https://replit.com/@YashShah49/TT0-Menu)
