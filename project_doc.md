@@ -5,3 +5,4 @@
 ## Code Snippets
 
 ## Code / Runtime Links
+[Repl](https://replit.com/@YashShah49/TT0-Menu#main.py)
