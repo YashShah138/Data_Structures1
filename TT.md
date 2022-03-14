@@ -1,4 +1,4 @@
-{% include nav.html %}
+{% include navigation.html %}
 # Tech Talk Work + Data Structures Projects
 ***
 ## TT0 [Replit Link for Menu Runtime](https://replit.com/@YashShah49/TT0-Menu#main.py)
