@@ -7,7 +7,7 @@
 
 ***
 
-## TT1
+## TT1 [Replit Link for Loops and Fibonacci](https://replit.com/@YashShah49/TT1#main.py)
 - content
 
 ***
