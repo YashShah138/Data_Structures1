@@ -8,7 +8,9 @@
 ***
 
 ## TT1 [Replit Link for Loops and Fibonacci](https://replit.com/@YashShah49/TT1#main.py)
-- content
+- Worked on developing a recursive Fibonacci sequence
+- Added more to static menu for main individual project
+- Made a list and made function to call
 
 ***
 
