@@ -1,3 +1,5 @@
+# Hack 1: InfoDB lists.  Build your own/personalized InfoDb with a list length > 3,  create list within a list as illustrated with Owns_Cars
+
 InfoDb = []
 # List with dictionary records placed in a list  
 InfoDb.append({  
@@ -6,34 +8,36 @@ InfoDb.append({
                "DOB": "May 25",  
                "Residence": "San Diego",  
                "Email": "yashjshah138@gmail.com",  
-               "Owns_Cars":["2019 Bugatti Divo","2020 Rolls Royce Cullinan","2022 Porsche GT4 RS","2022 Lamborghini Aventador STO", "Ferrari 296 GT3"]  
-              })  
+               "Owns_Cars":["Mk3 Supra", "Porsche GT4 RS"]  
+              })
+
+InfoDb.append({  
+               "FirstName": "John",  
+               "LastName": "Cena",  
+               "DOB": "April 23",  
+               "Residence": "Hollywood",  
+               "Email": "johncena@gmail.com",  
+               "Owns_Cars":["2022 Invisi-Mobile"]  
+              }) 
 
 InfoDb.append({  
                "FirstName": "Liam",  
-               "LastName": "Neesom",  
-               "DOB": "June 7",  
-               "Residence": "New York",  
-               "Email": "liamneeson@gmail.com",  
-               "Owns_Cars":["2019 Ford F-250 Heavy Duty","2018 Ferrari 488","Subaru WRX STI"]  
-              })
+               "LastName": "Neeson",  
+               "DOB": "January 23",  
+               "Residence": "San Diego",  
+               "Email": "liamn@gmail.com",  
+               "Owns_Cars":["2005 Ferarri FXX", "2005 Honda CRV"]  
+              })  
 
 InfoDb.append({  
                "FirstName": "Ryan",  
                "LastName": "Reynolds",  
-               "DOB": "October 23",  
+               "DOB": "August 27",  
                "Residence": "Los Angeles",  
-               "Email": "sexyryan@gmail.com",  
-               "Owns_Cars":["Toyota Prius","Tesla Model S","Lamborghini Aventador"]  
-              })
+               "Email": "ryanr@gmail.com",  
+               "Owns_Cars":["2022 Tesla Model X", "Bentley Bentayga"]  
+              })  
 
-InfoDb.append({  
-               "FirstName": "Jeff",  
-               "LastName": "Bezos",  
-               "DOB": "January 12",  
-               "Residence": "Maui",  
-               "Email": "kingjeff@gmail.com",  
-               "Owns_Cars":["Koenigsegg CCXR Trevita","Bugatti Veyron Mansory","Lamborghini Veneno Roadster", "Ferrari Pininfarina Sergio", "Lykan HyperSport"] 							})
 
 # given an index this will print InfoDb content
 def print_data(n):
@@ -55,7 +59,7 @@ def tester():
     print("Recursive loop")
     recursive_loop(0)  # requires initial index to start recursion
 
-def for_loop(n):
+def for_loop():
     for n in range(len(InfoDb)):
         print_data(n)
 
@@ -86,3 +90,21 @@ def tester1():
         print("Sorry, factorial does not exist for negative numbers")
     else:
         print("The factorial of", num, "is", recur_factorial(num))
+
+# Hack 3: Fibonacci.  Write a recursive program to create a fibonacci sequence including error handling for invalid input
+def fibonacci():
+  num = int(input("Enter the length of your Fibonacci sequence: "))
+  if num < 0:
+    print("You cannot use a negative number")
+  else:
+    # for loops lets recursive fibonacci loop print every number in a fibonacci sequence in a certain range "num"
+    for i in range(num):
+      print(recur_fibonacci(i))
+
+# recursive loop that takes a number input, n, and returns the nth number in a fibonacci sequence
+def recur_fibonacci(n):
+  if n <= 1:  
+     return n  
+  else:  
+     return(recur_fibonacci(n-2) + recur_fibonacci(n-1))
+  

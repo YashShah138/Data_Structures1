@@ -1,4 +1,4 @@
-from TT0 import menu
+from tt0 import functions
 
 if __name__ == "__main__":
-  menu.print_options()
+  functions.menu()
