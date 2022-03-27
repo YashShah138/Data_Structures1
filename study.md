@@ -1,4 +1,5 @@
 {% include navigation.html %}
+{% include study.html %}
 
 # Test Prep Study
 
