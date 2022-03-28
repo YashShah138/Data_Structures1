@@ -1,5 +1,8 @@
 {% include navigation.html %}
 
+{% include study.html %}
+
+
 # Test Prep Study
 
 ## CB Sections 5.1 - 5.6
