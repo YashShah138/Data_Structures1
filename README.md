@@ -11,7 +11,7 @@ These GitHub pages are intended to show progress throughout Data Structures 1.
 
 ---
 
-### [Week 2 Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/)
+### [Week 2 Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/19)
 
 ---
 
