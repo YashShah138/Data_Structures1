@@ -187,3 +187,66 @@ def print_fib(i):
   else:  
      return(print_fib(i-2) + print_fib(i-1))
 ```
+### Crossover
+anagram.py
+```
+first_string = input("Provide the first string: ")
+second_string = input("Provide the second string: ") 
+
+if sorted(first_string) == sorted(second_string):
+    print("The two strings are anagrams.")
+else:
+    print("The two strings are not anagrams.")
+```
+
+addition.py
+```
+# Store input numbers
+num1 = input('Enter first number: ')
+num2 = input('Enter second number: ')
+
+# Add two numbers
+sum = float(num1) + float(num2)
+
+# Display the sum
+print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+```
+
+subtraction.py
+```
+# Store input numbers
+num1 = input('Enter first number: ')
+num2 = input('Enter second number: ')
+
+# Subtract two numbers
+difference = float(num1) - float(num2)
+
+# Display the difference
+print('The difference of {0} and {1} is {2}'.format(num1, num2, difference))
+```
+
+multiplication.py
+```
+# Store input numbers
+num1 = input('Enter first number: ')
+num2 = input('Enter second number: ')
+
+# Multiply two numbers
+product = float(num1) * float(num2)
+
+# Display the product
+print('The product of {0} and {1} is {2}'.format(num1, num2, product))
+```
+
+division.py
+```
+# Store input numbers
+num1 = input('Enter first number: ')
+num2 = input('Enter second number: ')
+
+# Divid two number
+quotient = float(num1) / float(num2)
+
+# Display the quotient
+print('The quotient of {0} and {1} is {2}'.format(num1, num2, quotient))
+```
