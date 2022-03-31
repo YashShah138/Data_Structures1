@@ -62,6 +62,10 @@ def lessNumSwap():
   else:
     print(age2, age1)
 
+def submenu4():
+    title = "\n" + "TT4 Submenu" + banner
+    buildMenu(title, sub_menu4)
+
 # menuy.py - function style menu
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
@@ -97,6 +101,18 @@ sub_menu2 = [
   ["Palindrome Tester", classes.pali_tester],
 ]
 
+sub_menu3 = [
+    ["Anagram", 'crossover/anagram.py'],
+    ["Calculator", submenu4],
+]
+
+sub_menu4 = [
+    ["Addition", 'crossover/calculator/addition.py'],
+    ["Subtraction", 'crossover/calculator/subtraction.py'],
+    ["Multiplication", 'crossover/calculator/multiplication.py'],
+    ["Division", 'crossover/calculator/division.py'],
+]
+
 # Menu banner is typically defined by menu owner
 border1 = "~" * 25
 border2 = "~" * 25 
@@ -119,6 +135,7 @@ def menu():
     menu_list.append(["Animations (TT0)", submenu0])
     menu_list.append(["Lists & Fibonacci (TT1)", submenu1])
     menu_list.append(["Math (TT2)", submenu2])
+    menu_list.append(["Crossover", submenu3])
     buildMenu(title, menu_list)
 
 # def submenu
@@ -139,6 +156,10 @@ def submenu1():
 def submenu2():
     title = "\n" + "TT2 Submenu" + banner
     buildMenu(title, sub_menu2)
+
+def submenu3():
+    title = "\n" + "TT3 Submenu" + banner
+    buildMenu(title, sub_menu3)
 
 def buildMenu(banner, options):
     # header for menu
