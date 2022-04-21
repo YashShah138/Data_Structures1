@@ -1,25 +1,26 @@
 {% include navigation.html %}
-# Tech Talk Work + Data Structures Projects
-***
 
-## TT0 [Replit Link for Menu Runtime](https://replit.com/@YashShah49/DataStructures1#tt0/functions.py)
-- Worked on making a menu with submenus for python
-- Made the static menu and used try-except to make the menu fault-redundant.
+# AP Test Corrections
 
-***
-
-## TT1 [Replit Link for Loops and Fibonacci](https://replit.com/@YashShah49/DataStructures1#tt1/loops.py)
-- Worked on developing a recursive Fibonacci sequence
-- Added more to static menu for main individual project
-- Made a list and made function to call
-
-***
-
-## TT2 [Replit Link for Python Classes](https://replit.com/@YashShah49/DataStructures1#tt2/classes.py)
-- Created classes for:
-  - Fibonacci
-  - Sequential sum
-  - Palindromes
-- Linked it to TT0 menu
-
-***
+## Finals Quiz 1
+- Question 9
+  - I forgot that some calls would be routed to a representative.
+  - 5.1 Daily Video 1
+  - 5.2 Daily Video 2
+- Question 14
+  - I forgot that adding an extra binary digit allows for two times as many items to be identified, not 10 times as many.
+  - 2.1 Daily Video 1
+  - 2.1 Daily Video 2
+  - 2.1 Daily Video 3
+- Question 24
+  - I just pressed the wrong option on this question
+- Question 32
+  - I incorrectly calculated the order in which the algorithm would execute.
+  - 1.4 Daily Video 1
+  - 1.4 Daily Video 2
+  - 1.4 Daily Video 3
+  - 3.10 Daily Video 1
+  - 3.10 Daily Video 2
+  - 3.10 Daily Video 3
+- Question 47
+  - My answer was correct, but I accidentally clicked three options instead of two.
