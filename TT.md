@@ -43,6 +43,6 @@
   - 5.4 Daily Video 1
 
 - Question 47
-  - There does not appear to be any correlation between number of hours spent using a smartphone and number of hours spent reading.efficiency.
+  - There does not appear to be any correlation between the number of hours spent using a smartphone and the number of hours spent on reading efficiency.
   - 2.3 Daily Video 1
   - 2.3 Daily Video 2
