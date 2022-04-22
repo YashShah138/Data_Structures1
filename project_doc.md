@@ -1,5 +1,6 @@
 {% include navigation.html %}
 
+
 {% include search.html %}
 
 # Data Structures Project Documentation
