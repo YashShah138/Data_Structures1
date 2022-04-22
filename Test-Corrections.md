@@ -1,4 +1,3 @@
-
 {% include navigation.html %}
 
 {% include search.html %}
