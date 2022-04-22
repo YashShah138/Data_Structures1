@@ -1,6 +1,8 @@
-{% include navigation.html %}
+{% include navigation.html %
 
 {% include study.html %}
+
+{% include search.html %}
 
 
 # Test Prep Study
