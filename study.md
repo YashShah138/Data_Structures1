@@ -1,8 +1,7 @@
 {% include navigation.html %
-
 {% include search.html %}
-
 {% include study.html %}
+
 
 # Test Prep Study
 ### Use the navbar above or the links below
