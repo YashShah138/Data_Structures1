@@ -1,5 +1,7 @@
-{% include navigation.html %
+{% include navigation.html %}
+
 {% include search.html %}
+
 {% include study.html %}
 
 
