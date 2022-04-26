@@ -1,5 +1,7 @@
 {% include navigation.html %}
 
+{% include ct_embed.html %}
+
 {% include search.html %}
 
 # Create Task Documentation
