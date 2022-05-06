@@ -4,6 +4,12 @@
 
 # AP Test Corrections
 
+### Quick Links
+- [Finals Quiz 1](Finals Quiz 1 -- 45/50)
+- [Finals Quiz 2](#Finals Quiz 2 -- 46/50)
+- [Finals Quiz 3](#Finals Quiz 3 -- 45/50)
+- [Finals Quiz 5](#Finals Quiz 5 -- 23/26)
+
 ## Finals Quiz 1 -- 45/50
 - Question 9
   - I forgot that some calls would be routed to a representative.
