@@ -31,6 +31,7 @@
 - Question 47
   - My answer was correct, but I accidentally clicked three options instead of two.
 
+
 ## Finals Quiz 2 -- 46/50
 - Question 1
   - The efficiency of a parallel solution is limited by a sequential portion. Eventually, adding parallel portions will no longer meaningfully increase efficiency.
@@ -48,6 +49,7 @@
   - There does not appear to be any correlation between the number of hours spent using a smartphone and the number of hours spent on reading efficiency.
   - 2.3 Daily Video 1
   - 2.3 Daily Video 2
+
 
 ## Finals Quiz 3 -- 45/50
 - Question 3
@@ -79,3 +81,21 @@
   - 3.8 Daily Video 1
   - 3.8 Daily Video 2
   - 3.8 Daily Video 3
+
+
+## Finals Quiz 3 -- 45/50
+Question 3
+- Since y is initially negative, the loop condition count ≥ y is initially true, so the body of the loop is never executed and 0 is returned.
+- 1.4 Daily Video 1
+- 1.4 Daily Video 2
+- 1.4 Daily Video 3
+
+Question 15
+- Both programs display ten values
+- 3.9 Daily Video 1
+- 3.9 Daily Video 2
+- 3.9 Daily Video 3 
+
+Question 20
+- Freeware or shareware is generally intended for download onto a home computer and this use is considered ethical
+- 5.5 Daily Video 1
