@@ -83,7 +83,7 @@
   - 3.8 Daily Video 3
 
 
-## Finals Quiz 3 -- 45/50
+## Finals Quiz 5 -- 23/26
 Question 3
 - Since y is initially negative, the loop condition count ≥ y is initially true, so the body of the loop is never executed and 0 is returned.
 - 1.4 Daily Video 1
