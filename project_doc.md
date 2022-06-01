@@ -5,6 +5,10 @@
 
 # Data Structures Project Documentation
 
+## Tech Requirement Documentation
+During the span of our PBL project, I mainly worked on deployment. The website is now deployed to [nighthawktutoring.tk](https://nighthawktutoring.tk). In  order to meet our project sponsor's (Mr. Mortensen) requirements. The biggest part of our website is the student and admin calendar. This calendar allows the admin (Mr. Mortensen) to add events and due dates to a calendar that can be viewed by his future CSP/CSA students.
+
+
 ## Code Snippets
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@YashShah49/Data_Structures1?embed=true"></iframe>
 
