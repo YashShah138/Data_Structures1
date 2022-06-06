@@ -6,7 +6,10 @@
 # Data Structures Project Documentation
 
 ## Tech Requirement Documentation
-During the span of our PBL project, I mainly worked on deployment. The website is now deployed to [nighthawktutoring.tk](https://nighthawktutoring.tk). In  order to meet our project sponsor's (Mr. Mortensen) requirements. The biggest part of our website is the student and admin calendar. This calendar allows the admin (Mr. Mortensen) to add events and due dates to a calendar that can be viewed by his future CSP/CSA students.
+During the span of our PBL project, I mainly worked on deployment. The website is now deployed to [nighthawktutoring.tk](https://nighthawktutoring.tk). In  order to meet our project sponsor's (Mr. Mortensen) requirements. The biggest part of our website is the student and admin calendar. This calendar allows the admin (Mr. Mortensen) to add events and due dates to a calendar that can be viewed by his future CSP/CSA students. The main things I worked on this trimester was the automatic day changing calendar and the notes system. For the note system, I associated notes created by users to the userID. We did end up going another route for the website. We ditched the notes system and added a events system. For the automatic day changing calendar, I  was  able to get it comitted and pushed on a seperate branch. I have since been working on integrating the CRUD database with the calendar.
+
+##  Key Learnings
+One of the biggest things I learned while working with python and deployment is perseverance. I often come across problems or procedures that I do not know how to write. So I needed perseverance to do research and learn how to write the procedure. Another skill that I learned in Data Structures is the skill of asking for help. I used to run into some problems with the deployment. Developing the skill of asking for help allowed me to succeed in deployment.
 
 
 ## Code Snippets
